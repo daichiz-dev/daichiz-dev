@@ -41,5 +41,4 @@ DevOps         GitHub Actions, pre-commit hooks, CI/CD, Docker, launchd
 
 ## 📫 Contact
 
-- Email: daichizaha1105@gmail.com
 - Location: Fukuoka, Japan (remote) · English working proficiency
